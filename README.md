@@ -16,8 +16,6 @@
 
 ---
 
-## 🛠️ Skills & Technologies
-
 ### Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -40,8 +38,6 @@
 </p>
 
 ---
-
-## 📌 Featured Projects
 
 ### 🔹 [SantiGPT](https://github.com/FolksyPizza/SantiGPT)
 A custom conversational AI model originally started as a school meme project, expanded into a full ML-powered training and inference project.
@@ -72,7 +68,7 @@ A Raspberry Pi–based camera system with clean UI, capture controls, and integr
 
 ---
 
-## 🎯 What I Work On
+## What I Work On
 - Deep learning (PyTorch)  
 - GPU acceleration & CUDA workflows  
 - Computer vision projects  
