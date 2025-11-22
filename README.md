@@ -39,35 +39,6 @@
 
 ---
 
-### 🔹 [SantiGPT](https://github.com/FolksyPizza/SantiGPT)
-A custom conversational AI model originally started as a school meme project, expanded into a full ML-powered training and inference project.
-
-- Custom dataset and preprocessing  
-- Training pipeline in PyTorch  
-- Experiment tracking and evaluation  
-- Modular architecture for extension  
-
----
-
-### 🔹 [Cats vs Dogs AI](https://github.com/FolksyPizza/Cats-Vs-Dogs-AI)
-My first deep learning model — a complete computer vision classifier built from scratch.
-
-- PyTorch CNN architecture  
-- Augmentations and preprocessing  
-- Training/validation loop  
-- Accuracy + loss tracking  
-
----
-
-### 🔹 [RPCam](https://github.com/FolksyPizza/RPCam)
-A Raspberry Pi–based camera system with clean UI, capture controls, and integration with ML.
-
-- Camera UI in Python  
-- Configurable capture settings  
-- Modular structure for future AI add-ons  
-
----
-
 ## What I Work On
 - Deep learning (PyTorch)  
 - GPU acceleration & CUDA workflows  
