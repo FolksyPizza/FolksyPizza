@@ -2,8 +2,7 @@
 
 <p align="center">
   I build deep learning models, GPU-accelerated training pipelines, and full AI systems.
-  I work across Python, PyTorch, C++, Linux, and CUDA — focusing on practical model development
-  and efficient ML engineering.
+  I work across Python, PyTorch, and C/C++ — focusing on model development and ML engineering.
 </p>
 
 ---
@@ -25,7 +24,6 @@
 ### Machine Learning / AI
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
@@ -41,8 +39,7 @@
 - GPU acceleration & CUDA workflows  
 - Computer vision projects  
 - End-to-end ML systems  
-- C++ for high-performance components  
-- Clean, practical AI engineering  
+- C++ for high-performance components
 
 ---
 
