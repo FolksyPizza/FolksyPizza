@@ -1,8 +1,8 @@
 # <p align="center">Machine Learning Developer • PyTorch Engineer • Systems Programmer</p>
 
 <p align="center">
-  I build deep learning models, GPU-accelerated training pipelines, and full AI systems.
-  I work across Python, PyTorch, and C/C++ — focusing on model development and ML engineering.
+  I build deep learning models, GPU-accelerated training pipelines, and AI systems.
+  I work with Python, PyTorch, and C/C++ — focusing on model development and ML engineering.
 </p>
 
 ---
