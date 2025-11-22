@@ -24,6 +24,8 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-NVIDIA%20DGX-76B900?style=flat&logo=nvidia&logoColor=white" />
+
 </p>
 
 ---
