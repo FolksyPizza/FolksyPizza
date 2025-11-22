@@ -9,6 +9,15 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FolksyPizza&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FolksyPizza&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
 ## 🛠️ Skills & Technologies
 
 ### Programming
@@ -65,21 +74,8 @@ A Raspberry Pi–based camera system with clean UI, capture controls, and integr
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FolksyPizza&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FolksyPizza&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FolksyPizza&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 What I Work On
-- Deep learning (PyTorch)
+- Deep learning (PyTorch)  
 - GPU acceleration & CUDA workflows  
 - Computer vision projects  
 - End-to-end ML systems  
