@@ -1,4 +1,4 @@
-# <p align="center">Machine Learning Developer • PyTorch Engineer • AI & Systems Programmer</p>
+# <p align="center">Machine Learning Developer • PyTorch Developer • AI & Systems Programmer</p>
 
 <p align="center">
   I build deep learning models, GPU-accelerated training pipelines, and AI systems.
