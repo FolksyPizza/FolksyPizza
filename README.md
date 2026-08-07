@@ -1,4 +1,8 @@
 ## Hi there 👋
+I enjoy coding many things.
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=FolksyPizza&theme=tokyonight" />
+</p>
 
 <!--
 **FolksyPizza/FolksyPizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
