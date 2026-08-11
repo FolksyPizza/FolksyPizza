@@ -1,7 +1,8 @@
 ## Hi there 👋
 I enjoy coding many things.
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=FolksyPizza&theme=tokyonight)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=FolksyPizza&theme=tokyonight" />
+</p>
 
 
 <!--
@@ -9,6 +10,7 @@ I enjoy coding many things.
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=FolksyPizza&theme=tokyonight" />
 </p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=FolksyPizza&theme=tokyonight)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
