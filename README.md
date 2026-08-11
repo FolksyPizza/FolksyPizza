@@ -1,12 +1,13 @@
 ## Hi there 👋
 I enjoy coding many things.
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=FolksyPizza&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=FolksyPizza&theme=tokyonight)
+
 
 <!--
 **FolksyPizza/FolksyPizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=FolksyPizza&theme=tokyonight" />
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
