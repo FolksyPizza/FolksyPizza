@@ -1,5 +1,6 @@
 ## Hi there 👋
 I enjoy coding many things.
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=FolksyPizza&theme=tokyonight)
 
 
