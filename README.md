@@ -1,17 +1,18 @@
-## Hi, I'm FolksyPizza
+Hi, I’m FolksyPizza
 
-I like building things, especially systems that involve interesting engineering problems.
+I like building things, especially projects that involve interesting engineering problems.
 
-A lot of my work revolves around **Minecraft development, systems engineering, distributed infrastructure, AI, and game development**. I'm particularly interested in how complex systems work, how they scale, and how to make them more efficient and reliable.
+Most of my work revolves around AI, systems engineering, distributed infrastructure, and game development. I started with Minecraft development and gradually got into other areas, including AI research, autonomous agents, graphics, and simulation.
 
-### What I'm into
-- Minecraft development, server software, and game systems
-- Distributed systems, networking, and infrastructure
-- AI infrastructure, inference, agents, and model evaluation
-- Performance, concurrency, and reliability
-- Game development, procedural generation, and graphics
-- Linux, hardware, and understanding how things work under the hood
+What I’m into
 
-I enjoy designing architectures, exploring tradeoffs, testing ideas, and figuring out how things work at a deeper level.
+* AI/ML, model training, inference, and agentic systems
+* Distributed systems, networking, and infrastructure
+* Game development, procedural generation, and simulation
+* Minecraft development and server software
+* Performance, concurrency, and computer architecture
+* Linux, hardware, and low-level systems
 
-I'm always experimenting with something.
+I enjoy designing systems, experimenting with ideas, and figuring out how things work under the hood.
+
+I’m usually working on a several projects at once, and a lot of them end up connecting in some way.
